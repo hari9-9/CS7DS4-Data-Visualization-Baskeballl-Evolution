@@ -23,6 +23,7 @@ venv\Scripts\activate
 pip install -r requirements.txt
 
 python dashboard.py
+'''
 
 
 ## Project Overview
