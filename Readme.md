@@ -14,7 +14,7 @@ Ensure you have the following installed:
 
 Python: Version 3.7 or later.
 pip: Python's package manager.
-
+```bash
 git clone https://github.com/hari9-9/CS7DS4-Data-Visualization-Baskeballl-Evolution.git
 cd CS7DS4-Data-Visualization-Baskeballl-Evolution
 
