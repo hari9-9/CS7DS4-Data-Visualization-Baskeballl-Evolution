@@ -1,6 +1,6 @@
 # CS7DS4: Data Visualization – Basketball Evolution Dashboard
 This project visualizes the evolution of NBA shooting trends over time, focusing on the rise of the 3-point shot and scoring patterns. The dashboard provides interactive and dynamic visualizations, enabling users to explore shooting data across multiple NBA seasons (2008-09 to 2023-24).
-
+![Dashboard Demo](visdemo.webm)
 ## Features
  - Interactive Shot Chart: Explore 2-point and 3-point shooting locations on a scaled basketball court.
  - Temporal Trends: Line charts showing changes in average points per game and shot attempts (2PT vs. 3PT) over seasons.
